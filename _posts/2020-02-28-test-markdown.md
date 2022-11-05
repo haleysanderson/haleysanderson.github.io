@@ -2,6 +2,7 @@
 layout: post
 title: Hobbes Reimagined
 subtitle: Paper subtitle
+permalink: hobbes-reimagined
 categories: ['selected']
 <!-- comments: true -->
 ---
