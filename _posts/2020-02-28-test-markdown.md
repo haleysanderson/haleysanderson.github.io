@@ -6,7 +6,7 @@ categories: ['selected']
 <!-- comments: true -->
 ---
 
-🔗 (<a href="TODO">publication</a> | <a href="TODO">pdf</a>)
+🔗 <a href="TODO">publication</a> | 🔗 <a href="TODO">pdf</a>
 
 <h2>Abstract</h2>
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
