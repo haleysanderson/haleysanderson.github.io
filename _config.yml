@@ -28,6 +28,7 @@ navbar-links:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 
+remove-ads: true
 ################
 # --- Logo --- #
 ################
