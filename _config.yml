@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My Website
+title: Haley S. Anderson
 
 # Your name to show in the footer
-author: Some Person
+author: Haley S. Anderson
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "haleysanderson.com"
 
 ################
 # --- Logo --- #
