@@ -1,5 +1,40 @@
 ---
 layout: page
-title: Haley S. Anderson
+<!-- title: Haley S. Anderson --> 
 <!-- subtitle: This is where I will tell my friends way too much about me -->
 ---
+
+<h4>State sovereignty and voluntarism</h4>
+Atrocity crimes under international law. Foreign and sovereign defendants in U.S. courts. Political illiberalism.
+Additional text about research interests here.
+
+<a href="TODO">CV</a>
+
+<p class="spacer"></p>
+<hr>
+<p class="spacer"></p>
+
+<h4>bio</h4>
+In addition to being a PhD student in Jurisprudence and Social Policy, Haley is a postgraduate fellow at Just Security. She holds a JD from NYU, where she was a managing editor of the N.Y.U. Law Review, scholar at the Institute of International Law and Justice, co-president of the International Law Society, and recipient of the John Bruce Moore Award for excellence in law and philosophy. After receiving her JD, Haley worked for the Permanent Mission of Mozambique to the United Nations in Geneva, Freshfields Bruckhaus Deringer US LLP, and Oxford University Press, among others. Her research interests include the history and philosophy of international law, atrocity crimes, sovereign immunity, and the operation of the international legal system in domestic settings.
+<p class="text-muted">121 words</p>
+   
+   
+<p class="spacer"></p>
+<hr>
+<p class="spacer"></p>
+
+<h3>Recent writing</h3>
+<ul>
+  {% for post in site.posts limit:2 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>  <i>{{post.subtitle}}</i></li>
+  {% endfor %}
+</ul>
+
+<h3>Selected writing</h3>
+<ul>
+  {% for post in site.categories['selected'] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> <i>{{post.subtitle}}</i></li>
+  {% endfor %}
+</ul>
+
+<a href="/writing"><h3>more…</h3></a>
