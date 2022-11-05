@@ -22,6 +22,7 @@ author: Haley S. Anderson
 navbar-links:
   About: "/"
   Writing: "writing"
+  CV: "/assets/cv.pdf"
   
 ### TODO Use this for Nested links
 #  Resources:
