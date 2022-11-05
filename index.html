@@ -23,18 +23,18 @@ In addition to being a PhD student in Jurisprudence and Social Policy, Haley is 
 <hr>
 <p class="spacer"></p>
 
-<h3>Recent writing</h3>
+<h4>Recent writing</h4>
 <ul>
   {% for post in site.posts limit:2 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a>  <i>{{post.subtitle}}</i></li>
   {% endfor %}
 </ul>
 
-<h3>Selected writing</h3>
+<h4>Selected writing</h4>
 <ul>
   {% for post in site.categories['selected'] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> <i>{{post.subtitle}}</i></li>
   {% endfor %}
 </ul>
 
-<a href="/writing"><h3>more…</h3></a>
+<a href="/writing"><h4>more…</h4></a>
