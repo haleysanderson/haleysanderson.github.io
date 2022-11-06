@@ -46,17 +46,17 @@
             {% if page.readtime %}
               {% include readtime.html %}
             {% endif %}
-          {% endif %}
-          <br>
-          {% if page.link %}
-            <a href="{{page.link}}">link</a>
+            {% if page.link %}
+              <a href="{{page.link}}">link</a>
+              {% if page.pdf %}
+                ;&nbsp;
+              {% endif %}
+            {% endif %}
             {% if page.pdf %}
-              ;
+              <a href="{{page.pdf}}">pdf</a>
             {% endif %}
           {% endif %}
-          {% if page.pdf %}
-            &nbsp;<a href="{{page.pdf}}">pdf</a>
-          {% endif %}
+          <br>
         </div>
       </div>
     </div>
