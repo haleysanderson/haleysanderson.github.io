@@ -6,7 +6,7 @@ permalink: russia-georgia
 link: https://issuu.com/theoculus/docs/foreignlanguage2011/84
 pdf: 
 categories: ['selected']
-display-date:
+display-date: 2011
 ---
 
 <h2>Abstract:</h2>
