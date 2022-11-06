@@ -35,11 +35,11 @@ show-avatar : true
         {% if post.link %}
           <a href="{{post.link}}">link</a>
           {% if post.pdf %}
-            ;
+            ;&nbsp;
           {% endif %}
         {% endif %}
         {% if post.pdf %}
-          &nbsp;<a href="{{post.pdf}}">pdf</a>
+          <a href="{{post.pdf}}">pdf</a>
         {% endif %}
       </p>
       <div class="post-entry">
