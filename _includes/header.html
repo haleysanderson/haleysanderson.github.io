@@ -38,12 +38,10 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
-            {% if page.last-updated %}
-              <span class="post-meta">
-                <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
-              </span>
+            {% if page.display-date %}
+              <span class="post-meta">{{ page.display-date}}</span>
+            {% else %}
+              <span class="post-meta">{{ page.date | date: date_format }}</span>
             {% endif %}
             {% if page.readtime %}
               {% include readtime.html %}
@@ -72,12 +70,10 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
-            {% if page.last-updated %}
-              <span class="post-meta">
-                <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
-              </span>
+            {% if page.display-date %}
+              <span class="post-meta">{{ page.display-date}}</span>
+            {% else %}
+              <span class="post-meta">{{ page.date | date: date_format }}</span>
             {% endif %}
             {% if page.readtime %}
               {% include readtime.html %}
