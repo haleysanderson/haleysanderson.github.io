@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Impossible Commands: Hobbes and Spinoza on Rights and Resistance
+title: "Impossible Commands: Hobbes and Spinoza on Rights and Resistance"
 subtitle: 
 permalink: impossible-commands
 categories: [wip]
