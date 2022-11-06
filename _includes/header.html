@@ -47,6 +47,16 @@
               {% include readtime.html %}
             {% endif %}
           {% endif %}
+          <br>
+          {% if post.link %}
+            <a href="{{post.link}}">link</a>
+            {% if post.pdf %}
+              ;
+            {% endif %}
+          {% endif %}
+          {% if post.pdf %}
+            &nbsp;<a href="{{post.pdf}}">pdf</a>
+          {% endif %}
         </div>
       </div>
     </div>
