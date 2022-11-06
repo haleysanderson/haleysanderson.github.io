@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Recent
-<!-- subtitle: recent writing -->
+title: Writing
 show-avatar : true
 ---
 
@@ -26,20 +25,31 @@ show-avatar : true
         </a>
       </div>
       {% endif %}
+      <p class="post-meta">
+        {% if post.display-date %}
+          {{ post.display-date}}
+        {% else %}
+          {{ post.date | date: "%B %-d, %Y" }}
+        {% endif %}
+      </p>
       <div class="post-entry">
+        {% if post.link %}
+          &nbsp;<a href="{{post.link}}">link</a>
+          {% if post.pdf %}
+            ;
+          {% endif %}
+        {% endif %}
+        {% if post.pdf %}
+          &nbsp;<a href="{{post.pdf}}">pdf</a>
+        {% endif %}
+        <br>
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }} {% assign excerpt_word_count = post.excerpt
         | number_of_words %} {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}<br>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Read&nbsp;More</a> {% endif %}
       </div>
     </div>
 
-    <p class="post-meta">
-      {% if post.modified-date %}
-          {{ post.modified-date}}
-        {% else %}
-          {{ post.date | date: "%B %-d, %Y" }}
-        {% endif %}
-    </p>
+
 
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
