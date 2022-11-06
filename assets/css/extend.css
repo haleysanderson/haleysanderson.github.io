@@ -7,3 +7,6 @@ h1, h2, h3, h4, h5, h6 {
 body, a {
     font-family: 'Avenir', 'Lora', 'Times New Roman', serif;
 }
+.post-preview .post-meta, .post-heading .post-meta {
+    font-family: 'Avenir', 'Lora', 'Times New Roman', serif;
+}
