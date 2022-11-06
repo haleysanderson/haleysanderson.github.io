@@ -1,3 +1,9 @@
 /* ------ Overrides ------ */
 
 h3 { font-weight: 600; }
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Avenir','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+body, a {
+    font-family: 'Avenir', 'Lora', 'Times New Roman', serif;
+}
