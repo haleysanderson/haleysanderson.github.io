@@ -12,7 +12,9 @@ display-date:
 <h2>Abstract:</h2>
 
 <!--
-![image-subtitle][image-]
+<i>Slide deck from presentation at the YEAR CONFERENCE <a href="LINK">here</a>.</i>
+!
+[image-subtitle][image-]
 [link-wording][link-]
 
 [image-]: /img-posts/
