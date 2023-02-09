@@ -4,7 +4,7 @@ title: "Impossible Commands: Hobbes and Spinoza on Rights and Resistance"
 subtitle: DRAFT available upon request
 permalink: impossible-commands
 categories: [wip]
-display-date: 2022
+display-date: 2023
 ---
 
 <h2>Abstract:</h2>
