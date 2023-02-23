@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Culpability in Atrocity and the Role of Complicit Viewer"
-subtitle: DRAFT available upon request
+title: "Culpability in Atrocity and the Role of Complicit Observer"
+subtitle: forthcoming in the *Temple International and Comparative Law Journal*
 permalink: complicit-observers
 link:
 pdf:
-categories: ['wip']
+categories: ['recent', 'selected']
 display-date: 2023
 ---
 
