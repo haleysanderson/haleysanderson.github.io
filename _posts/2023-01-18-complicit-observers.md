@@ -5,7 +5,7 @@ subtitle: Temple International and Comparative Law Journal, forthcoming
 permalink: complicit-observers
 link:
 pdf:
-categories: ['recent', 'selected']
+categories: ['selected']
 display-date: 2023
 ---
 
