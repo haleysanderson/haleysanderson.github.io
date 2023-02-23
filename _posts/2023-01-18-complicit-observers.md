@@ -4,7 +4,7 @@ title: "Culpability in Atrocity and the Role of Complicit Observer"
 subtitle: Temple International and Comparative Law Journal, forthcoming
 permalink: complicit-observers
 link:
-pdf:
+pdf: assets/pdf/complicit-observers.pdf
 categories: ['selected']
 display-date: 2023
 ---
