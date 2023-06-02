@@ -10,3 +10,7 @@ body, a {
 .post-preview .post-meta, .post-heading .post-meta {
     font-family: 'Avenir', 'Lora', 'Times New Roman', serif;
 }
+
+body li {
+    margin-bottom: 6px; 
+}

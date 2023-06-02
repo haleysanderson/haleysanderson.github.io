@@ -21,8 +21,10 @@ author: Haley S. Anderson
 
 navbar-links:
   About: "/"
-  Writing: "writing"
   CV: "/cv.pdf"
+  Writing: "writing"
+  Teaching: "teaching"
+  Law School FAQ: "lawschool"
   
 ### TODO Use this for Nested links
 #  Resources:
