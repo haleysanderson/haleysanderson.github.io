@@ -6,7 +6,7 @@ permalink: complicit-observers
 link:
 pdf: assets/pdf/complicit-observers.pdf
 categories: ['selected']
-display-date: 2023
+display-date: 2024
 ---
 
 <h2>Abstract:</h2>
