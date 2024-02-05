@@ -17,7 +17,7 @@ Along the way, the application of the commercial–sovereign dichotomy has kept 
 <br>
 <br>
 This paper argues that the current commercial–sovereign dichotomy in FSIA jurisprudence both goes beyond what is required by the statute and is undesirable for many reasons. Part I outlines the presumption and exceptions to immunity provided in the FSIA, as well as the construction of the commercial–sovereign dichotomy in this context. Next, Part II argues that this dichotomy is not required either by the text of the FSIA or by the concept of “commercial activity” itself. Part III then lays out three ways the dichotomy is undesirable: It forces courts to engage in artificial constructions of the underlying alleged conduct, which can lead to absurd conclusions; it generates potential conflicts with important interpretations of the act of state doctrine and foreign official immunity; and it constructs a notion of sovereignty as intertwined with the right to abuse. Finally, Part IV offers to suggestions for reform that address these concerns. 
-<hr></hr>
+<hr>
 <sup id="fn1">1. <i>See</i> Republic of Argentina v. Weltover, 504 U.S. 607 (1992).<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 <br>
 <sup id="fn2">2. <i>See</i> Saudi Arabia v. Nelson, 507 U.S. 349, 366 (1993) (White, J., concurring) (“[H]ad the hospital retaliated against Nelson by hiring thugs to do the job, I assume the majority—no longer able to describe this conduct as ‘a foreign state’s exercise of the power of its police’—would consent to calling it ‘commercial.’”).<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
