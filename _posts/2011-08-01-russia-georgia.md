@@ -5,7 +5,7 @@ subtitle: Oculus Foreign Language Edition
 permalink: russia-georgia
 link: https://issuu.com/theoculus/docs/foreignlanguage2011/84
 pdf: 
-categories: ['selected']
+categories:
 display-date: 2011
 ---
 
