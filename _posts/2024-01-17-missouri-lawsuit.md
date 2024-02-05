@@ -2,7 +2,7 @@
 layout: post
 title: Missouri’s COVID Suit Against China Revived
 subtitle: Transnational Litigation Blog
-permalink: why-them
+permalink: missouri-lawsuit
 link: https://tlblog.org/missouris-covid-suit-against-china-revived/
 categories: ['recent']
 display-date: January 17, 2024
