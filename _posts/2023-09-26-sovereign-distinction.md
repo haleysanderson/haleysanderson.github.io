@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Procedural Sovereign Distinction"
-subtitle: Vanderbilt Journal of Transnational Law, forthcoming
+subtitle: Vanderbilt Journal of Transnational Law
 permalink: sovereign-distinction
 link:
 pdf: assets/pdf/sovereign-distinction.pdf
