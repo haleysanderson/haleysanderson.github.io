@@ -3,7 +3,7 @@ layout: post
 title: "Procedural Sovereign Distinction"
 subtitle: Vanderbilt Journal of Transnational Law
 permalink: sovereign-distinction
-link:
+link: https://www.transnat.org/post/procedural-sovereign-distinction
 pdf: assets/pdf/sovereign-distinction.pdf
 categories: ['selected']
 display-date: 2024
