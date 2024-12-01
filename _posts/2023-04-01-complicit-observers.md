@@ -5,7 +5,7 @@ subtitle: Temple International and Comparative Law Journal
 permalink: complicit-observers
 link: https://sites.temple.edu/ticlj/category/volume-37/
 pdf: assets/pdf/complicit-observers.pdf
-categories: ['selected']
+categories: ['recent']
 display-date: 2023
 ---
 
