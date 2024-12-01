@@ -24,7 +24,7 @@ Haley is an Academic Fellow and Lecturer in Law at Columbia Law School, PhD Cand
 
 <h4>Recent Publications</h4>
 <ul>
-  {% for post in site.categories['recent'] limit:2 %}
+  {% for post in site.categories['recent'] limit:4 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a> <i>{{post.subtitle}}</i> ({{post.display-date}})
       {% if post.link %}
