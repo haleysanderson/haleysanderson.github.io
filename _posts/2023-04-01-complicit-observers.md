@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Culpability in Atrocity and the Role of Complicit Observer"
-subtitle: Temple International and Comparative Law Journal
+subtitle: 37 Temp. Int'l & Comp. L.J. 11
 permalink: complicit-observers
 link: https://sites.temple.edu/ticlj/category/volume-37/
 pdf: assets/pdf/complicit-observers.pdf
