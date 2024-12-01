@@ -5,7 +5,7 @@ subtitle: The Global Encyclopedia of Territorial Rights
 permalink: nscs-cases
 link: https://link.springer.com/referenceworkentry/10.1007/978-3-319-68846-6_581-1
 pdf: /assets/pdf/nscs.pdf
-categories: ['recent', 'selected']
+categories: ['recent']
 display-date: 2022
 ---
 
