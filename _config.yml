@@ -55,9 +55,9 @@ title-img: "/assets/img/haley_circular.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hsanderson@berkeley.edu"
+  email: "handerson@law.columbia.edu"
 # twitter: h_s_anderson
-  mastodon: mstdn.social/@h_s_anderson
+# mastodon: mstdn.social/@h_s_anderson
 #  facebook: deanattali
 #  github: daattali
 #  patreon: DeanAttali
