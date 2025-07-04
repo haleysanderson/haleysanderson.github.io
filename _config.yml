@@ -21,10 +21,10 @@ author: Haley S. Anderson
 
 navbar-links:
   About: "/"
-  CV: "/cv.pdf"
+  CV: "/anderson_cv.pdf"
+  Research Agenda: "/anderson_research.pdf"
   Writing: "writing"
   Teaching: "teaching"
-  Law School FAQ: "lawschool"
   
 ### TODO Use this for Nested links
 #  Resources:
@@ -56,6 +56,7 @@ title-img: "/assets/img/haley_circular.png"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "handerson@law.columbia.edu"
+  url: "hello.com"
 # twitter: h_s_anderson
 # mastodon: mstdn.social/@h_s_anderson
 #  facebook: deanattali
@@ -291,5 +292,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+# Beautiful Jekyll / Dean 
