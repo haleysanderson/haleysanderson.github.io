@@ -23,8 +23,9 @@ navbar-links:
   About: "/"
   CV: "/anderson_cv.pdf"
   Research Agenda: "/anderson_research.pdf"
-  Writing: "writing"
   Teaching: "teaching"
+  Writing: "writing"
+  
   
 ### TODO Use this for Nested links
 #  Resources:
@@ -292,4 +293,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean 
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189

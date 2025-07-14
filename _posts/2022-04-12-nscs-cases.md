@@ -3,8 +3,9 @@ layout: post
 title: North Sea Continental Shelf Cases
 subtitle: The Global Encyclopedia of Territorial Rights
 permalink: nscs-cases
-link: https://link.springer.com/referenceworkentry/10.1007/978-3-319-68846-6_581-1
-pdf: /assets/pdf/nscs.pdf
+ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5341896
+link: 
+pdf: 
 categories: ['recent']
 display-date: 2022
 ---

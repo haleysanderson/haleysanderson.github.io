@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hobbes and the Liberal Tradition in International Law"
-subtitle: DRAFT available upon request
+subtitle: 39 Temp. Int'l & Compar. L.J. (forthcoming)
 permalink: hobbes-liberal-tradition
 link:
 pdf: 

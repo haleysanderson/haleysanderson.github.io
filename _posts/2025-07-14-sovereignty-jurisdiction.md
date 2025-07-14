@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sovereignty of Personal Jurisdiction"
-subtitle: DRAFT available upon request
+subtitle: draft available upon request
 permalink: sovereignty-jurisdiction
 link:
 pdf: 

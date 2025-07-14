@@ -3,8 +3,9 @@ layout: post
 title: "Procedural Sovereign Distinction"
 subtitle: 57 Vand. J. Transnat'l L. 469
 permalink: sovereign-distinction
-link: https://www.transnat.org/post/procedural-sovereign-distinction
-pdf: assets/pdf/sovereign-distinction.pdf
+ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575479
+link: 
+pdf: 
 categories: ['recent']
 display-date: 2024
 ---
