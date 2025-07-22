@@ -5,7 +5,7 @@ show-avatar : true
 ---
 
 
-<h4>Seminar Idea</h4>
+<h4>Proposed Seminar</h4>
 
 Since the Founding, the U.S. Supreme Court has been using the law of nations to resolve disputes and declare what the law requires. This course will interrogate the relationship between the law of nations and domestic law through the lens of Supreme Court decisions on a range of subjects from the Early Republic to the 2020s.
 
