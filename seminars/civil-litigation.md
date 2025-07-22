@@ -4,7 +4,7 @@ title: Current Topics in Civil Litigation
 show-avatar : true
 ---
 
-<h4>Seminar Idea</h4>
+<h4>Proposed Seminar</h4>
 This course examines issues at the cutting edge of civil litigation in the United States. Each week, students will engage with a new topic in civil procedure, complex litigation, federal courts, or related subjects that has impacted legal practice in recent years. Assigned materials are drawn from a range of sources, including court documents, news articles, blog posts, and other scholarly commentary. 
 
 If the seminar were running in Fall 2025, it would cover topics such as:
