@@ -32,6 +32,12 @@ show-avatar : true
           {{ post.date | date: "%B %-d, %Y" }}
         {% endif %}
         <br>
+        {% if post.ssrn %}
+          <a href="{{post.ssrn}}">SSRN</a>
+          {% if post.pdf %}
+            /
+          {% endif %}
+        {% endif %}
         {% if post.link %}
           <a href="{{post.link}}">link</a>
           {% if post.pdf %}

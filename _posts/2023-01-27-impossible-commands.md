@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Impossible Commands: Hobbes and Spinoza on Law, Rights, and Resistance"
-subtitle: DRAFT available upon request
+subtitle: draft available upon request
 permalink: impossible-commands
 categories: [wip]
 display-date: 2023

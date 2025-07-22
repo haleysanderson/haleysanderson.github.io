@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Citizens in Chains: Hobbes, State Violence, and the Right of Resistance"
-subtitle: DRAFT available upon request
+subtitle: draft available upon request
 permalink: hobbes-resistance
 link:
 pdf: 
