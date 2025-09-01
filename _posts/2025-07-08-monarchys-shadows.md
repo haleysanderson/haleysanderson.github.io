@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Monarchy's Shadows"
+title: "Monarchy's Creeping Shadows"
 subtitle: draft available upon request
 permalink: monarchy-shadows
 link:
