@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sovereignty of Personal Jurisdiction"
-subtitle: draft available upon request
+subtitle: 83 Wash. & Lee L. Rev. (forthcoming 2026).
 permalink: sovereignty-jurisdiction
 link:
 pdf: 
