@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Hiding in Plain Sight: Currency-Based Jurisdiction in U.S. Sanctions Enforcement"
-subtitle: draft available upon request
+subtitle: U. Chi. L. Rev. Online (forthcoming 2026).
 permalink: sanctions
+ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6439345
 link:
 pdf: 
 categories: ['wip']
